@@ -26,9 +26,13 @@
 
 <hr>
 
-<p align="left" style="margin:0;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jqvxz&show_icons=true&locale=en&layout=compact&theme=dark" alt="jqvxz"/>
-</p>
-<p align="left" style="margin:0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jqvxz&show_icons=true&locale=en&theme=dark" alt="jqvxz"/>
-</p>
+<table border="0">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jqvxz&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" height="150px"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=jqvxz&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" height="150px"/>
+</td>
+</tr>
+</table>
