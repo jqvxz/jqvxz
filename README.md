@@ -1,9 +1,9 @@
 <h4 align="left" style="margin:0;">Welcome to my GitHub Profile</h4>
-<h4 align="left" style="margin:0;">I develop (AI develops) useful and fun apps for Windows and other platforms</h4>
+<h6 align="left" style="margin:0;">I develop (AI develops) useful and fun apps for Windows and other platforms</h6>
 
 <hr>
 
-<h4 align="left" style="margin:0;">Languages and Tools</h4>
+<h6 align="left" style="margin:0;">Languages and Tools</h6>
 <p align="left" style="margin:0;">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -30,7 +30,7 @@
 
 <hr>
 
-<h4 align="left" style="margin:0;">Platforms I use</h4>
+<h6 align="left" style="margin:0;">Platforms I use</h6>
 <p align="left" style="margin:0;">
   <a href="https://www.microsoft.com/de-de/windows?r=1" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="37" height="37"/>
