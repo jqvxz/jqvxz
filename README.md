@@ -41,6 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/>
   <!-- Apple -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="apple" width="40" height="40" style="filter: invert(100%);"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_white.svg" alt="apple" width="40" height="40"/>
 </p>
 
 
