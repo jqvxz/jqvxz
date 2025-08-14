@@ -1,5 +1,5 @@
-<h3 align="center">Welcome to my GitHub Profile</h3>
-<h3 align="center">I develop (AI develops) useful and fun apps for windows and other platforms</h3>
+<h3 align="left">Welcome to my GitHub Profile</h3>
+<h3 align="left">I develop (AI develops) useful and fun apps for windows and other platforms</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jqvxz&label=Profile%20views&color=0e75b6&style=flat" alt="jqvxz" /> </p>
 
