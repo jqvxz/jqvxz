@@ -40,7 +40,7 @@
   <!-- Android -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="37" height="37"/>
   <!-- Apple -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="apple" width="37" height="37"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="apple" width="39" height="39"/>
 </p>
 
 
