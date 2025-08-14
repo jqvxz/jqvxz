@@ -23,6 +23,9 @@
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="38" height="38"/>
   </a>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="38" height="38"/>
+  </a>
 </p>
 
 <hr>
