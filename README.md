@@ -1,5 +1,5 @@
 <h4 align="left" style="margin:0;">Welcome to my GitHub Profile</h4>
-<h4 align="left" style="margin:0;">I develop (AI develops) useful and fun apps for Windows and other platforms</h4>
+<h4 align="left" style="margin:0;">Developing useful windows utilities and applications</h4>
 
 <hr>
 
